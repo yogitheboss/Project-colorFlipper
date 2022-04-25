@@ -16,6 +16,7 @@
 .logo {
   text-align: center;
   background-color: rgb(224, 200, 200);
+  box-shadow: 1px 1px 19px 1px;
 }
 .logo > img {
   padding: 20px;
